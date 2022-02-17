@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pittasa
+- 👀 I’m interested in working out 
+- 🌱 I’m currently learning python
